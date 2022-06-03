@@ -1,2 +1,4 @@
-# rsschool-cv
-1
+
+https://datainfluencer.github.io/rsschool-cv/cv
+
+
